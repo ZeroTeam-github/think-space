@@ -36,3 +36,14 @@
 - **Backend (في حال الحاجة):** Node.js + Express.js  
 - **التخزين المحلي:** IndexedDB / LocalStorage /Sqlite/ Access API  
 - **تنسيق المحتوى:** Markdown
+الاعداد و التثبيت : 
+بعد تثبيت الملفات شغل الملف : 
+```
+bun install
+```
+
+ثم : 
+
+```
+bun run dev
+```
